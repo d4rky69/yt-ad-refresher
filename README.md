@@ -1,4 +1,7 @@
-# 🎬 Seamless YouTube Ad Skipper
+<div align="center">
+  <img src="icons/icon-128.png" alt="Extension Logo" width="128" height="128">
+  <h1>🎬 Seamless YouTube Ad Skipper</h1>
+</div>
 
 A lightweight, blazing-fast browser extension that instantly skips YouTube ads without reloading the page. Built for Chromium browsers (Chrome, Brave, Edge).
 
